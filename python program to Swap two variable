@@ -1,0 +1,14 @@
+
+
+# Python Program to Swap the two varibale
+# Solution using third variable
+
+x=13
+y=12
+temp = x
+print("The value of the temp is ", temp)
+x=y
+print("The value of the x is ", x)
+
+y = temp
+print("The value of the y is", y)
